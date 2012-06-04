@@ -33,8 +33,8 @@ def main():
 def load_dic(f):
     dic = {}
     for line in f:
-        a  = unicode(dic, "utf-8").strip().split("\t")
-        kanji = [1]
+        a  = unicode(line, "utf-8").strip().split("\t")
+        kanji = a[1]
         dic[kanji] = a
     return dic
 
