@@ -26,7 +26,7 @@ def main():
             for j in item.split(u'・'):
                 if j in dic:
                     continue
-                dic[j] = [u'*', j, u'名詞', u'']
+                dic[j] = [[u'*', j, u'名詞']]
 
     save_dic(sys.stdout, dic)
 
@@ -35,16 +35,19 @@ def load_dic(f):
     for line in f:
         a  = unicode(line, "utf-8").strip().split("\t")
         kanji = a[1]
-        dic[kanji] = a
+        if kanji not in dic:
+            dic[kanji] = []
+        dic[kanji].append(a)
     return dic
 
 def save_dic(f, dic):
     items = dic.items();
     items.sort(key=lambda x:x[1])
     for kanji, i in items:
-        line = "\t".join(i)
-        f.write(line.encode('utf-8'))
-        f.write('\n')
+        for j in i:
+            line = "\t".join(j[:3])
+            f.write(line.encode('utf-8'))
+            f.write('\n')
 
 if __name__=="__main__":
     main()
