@@ -1,3 +1,11 @@
+#Copyright (ja-jp): Copyright (c) shogo82148
+#Description (ja-jp): 長岡技術科学大学の学食で提供されているメニューを簡単に入力するための辞書です。
+#GUID: {499acb1d-111c-4171-9055-4b00e59ec742}
+#Language: ja-jp
+#Long Name (ja-jp): 長岡技術科学大学食堂メニュー辞書
+#Short Name (ja-jp): 技大食堂辞書
+#Source URL: http://github.com/shogo82148/gakushoku-dic/
+#Version: 1
 ５４５えんていしょく	545円定食	名詞
 ５４５えんどん	545円丼	名詞
 ５４５せっと	545セット	名詞

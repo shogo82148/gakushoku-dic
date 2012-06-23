@@ -9,7 +9,7 @@ MENU_ID = '0AmjmnXFuHdP0dDh0UHE4LU5EYXZtMzBZNUtOZnRnWmc'
 MENU_SHEET = 'od6'
 
 def main():
-    dic = load_dic(sys.stdin)
+    dic, comments = load_dic(sys.stdin)
 
     client = gdata.spreadsheet.text_db.DatabaseClient(config.EMAIL, config.PASSWORD)
     db = client.GetDatabases(MENU_ID)[0]
@@ -28,19 +28,27 @@ def main():
                     continue
                 dic[j] = [[u'*', j, u'名詞']]
 
-    save_dic(sys.stdout, dic)
+    save_dic(sys.stdout, dic, comments)
 
 def load_dic(f):
     dic = {}
+    comments = []
+
     for line in f:
+        if line[0] == '#':
+            comments.append(line)
+            continue
         a  = unicode(line, "utf-8").strip().split("\t")
         kanji = a[1]
         if kanji not in dic:
             dic[kanji] = []
         dic[kanji].append(a)
-    return dic
+    return dic, comments
 
-def save_dic(f, dic):
+def save_dic(f, dic, comments):
+    for line in comments:
+        f.write(line)
+
     items = dic.items();
     items.sort(key=lambda x:x[1])
     for kanji, i in items:
