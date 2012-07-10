@@ -858,6 +858,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 		<ns1:CommonWord>false</ns1:CommonWord>
 	</ns1:DictionaryEntry>
 	<ns1:DictionaryEntry>
+		<ns1:InputString>おむはやしどん</ns1:InputString>
+		<ns1:OutputString>オムハヤシ丼</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
 		<ns1:InputString>おむらいす</ns1:InputString>
 		<ns1:OutputString>オムライス</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
@@ -2394,6 +2406,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 		<ns1:CommonWord>false</ns1:CommonWord>
 	</ns1:DictionaryEntry>
 	<ns1:DictionaryEntry>
+		<ns1:InputString>さーもんぐりる</ns1:InputString>
+		<ns1:OutputString>サーモングリル</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
 		<ns1:InputString>さーもんしちゅー</ns1:InputString>
 		<ns1:OutputString>サーモンシチュー</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
@@ -2720,6 +2744,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<ns1:DictionaryEntry>
 		<ns1:InputString>さけのやさいあんかけ</ns1:InputString>
 		<ns1:OutputString>鮭の野菜あんかけ</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
+		<ns1:InputString>さけほいるやき</ns1:InputString>
+		<ns1:OutputString>鮭ホイル焼き</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
 		<ns1:CommentData1></ns1:CommentData1>
 		<ns1:CommentData2></ns1:CommentData2>
@@ -4962,6 +4998,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 		<ns1:CommonWord>false</ns1:CommonWord>
 	</ns1:DictionaryEntry>
 	<ns1:DictionaryEntry>
+		<ns1:InputString>てりまよちきん</ns1:InputString>
+		<ns1:OutputString>照りマヨチキン</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
 		<ns1:InputString>てりやきちきんどん</ns1:InputString>
 		<ns1:OutputString>照り焼きちきん丼</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
@@ -5598,6 +5646,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 		<ns1:CommonWord>false</ns1:CommonWord>
 	</ns1:DictionaryEntry>
 	<ns1:DictionaryEntry>
+		<ns1:InputString>とりにくのぴりからみそやき</ns1:InputString>
+		<ns1:OutputString>鶏肉のピリ辛味噌焼き</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
 		<ns1:InputString>とりにくのぴりぴりづけ</ns1:InputString>
 		<ns1:OutputString>鶏肉のピリピリ漬け</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
@@ -5792,6 +5852,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<ns1:DictionaryEntry>
 		<ns1:InputString>なすのちゅうかふううまに</ns1:InputString>
 		<ns1:OutputString>茄子の中華風旨煮</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
+		<ns1:InputString>なつやさいかれーらいす</ns1:InputString>
+		<ns1:OutputString>夏野菜カレーライス</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
 		<ns1:CommentData1></ns1:CommentData1>
 		<ns1:CommentData2></ns1:CommentData2>
@@ -6366,6 +6438,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 		<ns1:CommonWord>false</ns1:CommonWord>
 	</ns1:DictionaryEntry>
 	<ns1:DictionaryEntry>
+		<ns1:InputString>はんばーぐとまとにこみ</ns1:InputString>
+		<ns1:OutputString>ハンバーグトマト煮込み</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
 		<ns1:InputString>はんばーぐなんばんだれ</ns1:InputString>
 		<ns1:OutputString>ハンバーグ南蛮ダレ</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
@@ -6452,6 +6536,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<ns1:DictionaryEntry>
 		<ns1:InputString>ひやむぎもりあわせ</ns1:InputString>
 		<ns1:OutputString>冷麦盛り合わせ</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
+		<ns1:InputString>ひれかつおろしかけ</ns1:InputString>
+		<ns1:OutputString>ヒレカツおろしがけ</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
 		<ns1:CommentData1></ns1:CommentData1>
 		<ns1:CommentData2></ns1:CommentData2>
@@ -6894,6 +6990,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 		<ns1:CommonWord>false</ns1:CommonWord>
 	</ns1:DictionaryEntry>
 	<ns1:DictionaryEntry>
+		<ns1:InputString>ぶたにくちょうせんやき</ns1:InputString>
+		<ns1:OutputString>豚肉朝鮮焼き</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
 		<ns1:InputString>ぶたにくとこんにゃくのぴりからに</ns1:InputString>
 		<ns1:OutputString>豚肉とこんにゃくのピリ辛煮</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
@@ -7290,6 +7398,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 		<ns1:CommonWord>false</ns1:CommonWord>
 	</ns1:DictionaryEntry>
 	<ns1:DictionaryEntry>
+		<ns1:InputString>ほいこーろーていしょく</ns1:InputString>
+		<ns1:OutputString>回鍋肉定食</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
 		<ns1:InputString>ほいこーろーとちきんさらだ</ns1:InputString>
 		<ns1:OutputString>回鍋肉とチキンサラダ</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
@@ -7352,6 +7472,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<ns1:DictionaryEntry>
 		<ns1:InputString>ほろほろおやこどん</ns1:InputString>
 		<ns1:OutputString>ほろほろ親子丼</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
+		<ns1:InputString>ぼうてんふうはんばーぐ</ns1:InputString>
+		<ns1:OutputString>某店風ハンバーグ</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
 		<ns1:CommentData1></ns1:CommentData1>
 		<ns1:CommentData2></ns1:CommentData2>
@@ -8600,6 +8732,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<ns1:DictionaryEntry>
 		<ns1:InputString>ればにらいため</ns1:InputString>
 		<ns1:OutputString>レバニラ炒め</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
+		<ns1:InputString>ろーすぶたかつ</ns1:InputString>
+		<ns1:OutputString>ロース豚カツ</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
 		<ns1:CommentData1></ns1:CommentData1>
 		<ns1:CommentData2></ns1:CommentData2>
