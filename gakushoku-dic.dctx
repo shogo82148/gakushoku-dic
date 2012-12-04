@@ -618,6 +618,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 		<ns1:CommonWord>false</ns1:CommonWord>
 	</ns1:DictionaryEntry>
 	<ns1:DictionaryEntry>
+		<ns1:InputString>いしかりちーずかれー</ns1:InputString>
+		<ns1:OutputString>石狩チーズカレー</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
 		<ns1:InputString>いしかりどん</ns1:InputString>
 		<ns1:OutputString>石狩丼</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
@@ -4338,6 +4350,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 		<ns1:CommonWord>false</ns1:CommonWord>
 	</ns1:DictionaryEntry>
 	<ns1:DictionaryEntry>
+		<ns1:InputString>じゃんぼめんち</ns1:InputString>
+		<ns1:OutputString>ジャンボメンチ</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
 		<ns1:InputString>じゃんぼめんちかつ</ns1:InputString>
 		<ns1:OutputString>ジャンボメンチカツ</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
@@ -5370,6 +5394,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 		<ns1:CommonWord>false</ns1:CommonWord>
 	</ns1:DictionaryEntry>
 	<ns1:DictionaryEntry>
+		<ns1:InputString>ちきんそてーとまとそーす</ns1:InputString>
+		<ns1:OutputString>チキンソテートマトソース</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
 		<ns1:InputString>ちきんそてーらぴこっとそーす</ns1:InputString>
 		<ns1:OutputString>チキンソテーラビコットソース</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
@@ -6270,6 +6306,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 		<ns1:CommonWord>false</ns1:CommonWord>
 	</ns1:DictionaryEntry>
 	<ns1:DictionaryEntry>
+		<ns1:InputString>とうふきのこあんかけ</ns1:InputString>
+		<ns1:OutputString>豆腐きのこあんかけ</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
 		<ns1:InputString>とうふすてーき</ns1:InputString>
 		<ns1:OutputString>豆腐ステーキ</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
@@ -7016,6 +7064,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<ns1:DictionaryEntry>
 		<ns1:InputString>とりのごまてりやき</ns1:InputString>
 		<ns1:OutputString>鶏肉のゴマ照り焼き</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
+		<ns1:InputString>とりひきとさといものみそに</ns1:InputString>
+		<ns1:OutputString>鶏挽と里芋の味噌煮</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
 		<ns1:CommentData1></ns1:CommentData1>
 		<ns1:CommentData2></ns1:CommentData2>
@@ -9692,6 +9752,18 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<ns1:DictionaryEntry>
 		<ns1:InputString>むししゅーまい</ns1:InputString>
 		<ns1:OutputString>蒸しシューマイ</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
+		<ns1:InputString>むししゅーまいのすぶたふう</ns1:InputString>
+		<ns1:OutputString>蒸シューマイの酢豚風</ns1:OutputString>
 		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
 		<ns1:CommentData1></ns1:CommentData1>
 		<ns1:CommentData2></ns1:CommentData2>
