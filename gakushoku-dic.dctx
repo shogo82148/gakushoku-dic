@@ -11477,4 +11477,16 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 		<ns1:ReverseConversion>false</ns1:ReverseConversion>
 		<ns1:CommonWord>false</ns1:CommonWord>
 	</ns1:DictionaryEntry>
+	<ns1:DictionaryEntry>
+		<ns1:InputString>ポークカレー</ns1:InputString>
+		<ns1:OutputString>ポークカレー</ns1:OutputString>
+		<ns1:PartOfSpeech>Noun</ns1:PartOfSpeech>
+		<ns1:CommentData1></ns1:CommentData1>
+		<ns1:CommentData2></ns1:CommentData2>
+		<ns1:CommentData3></ns1:CommentData3>
+		<ns1:URL></ns1:URL>
+		<ns1:Priority>100</ns1:Priority>
+		<ns1:ReverseConversion>false</ns1:ReverseConversion>
+		<ns1:CommonWord>false</ns1:CommonWord>
+	</ns1:DictionaryEntry>
 </ns1:Dictionary>
